@@ -1,7 +1,7 @@
 package com.sds.app0229.bird;
-class Bird{
-	String name="그냥새";
-	private int age=23;
+public class Bird{
+	public String name="그냥새";
+	public int age=23;
 
 	public void eat(){
 		System.out.println("먹이먹음");
